@@ -5,7 +5,7 @@
 ## Синтаксис
 
 ```
-[M]Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad.[/M]
+[M]Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio.[/M]
 ```
 
 ## Установка
