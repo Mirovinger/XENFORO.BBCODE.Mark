@@ -10,8 +10,8 @@ Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi
 
 ## Установка
 
-1. Загрузите папки и файлы из `resource/upload` (если имеется) в корень форума, сохраняя структуру директорий.
-2. Зайдите в **AdminCP** форума на страницу **Install New Add-on** и установите ресурс при помощи XML-файла, находящегося в `resource/install`.
+1. Загрузите папки и файлы из `resource/upload/` (если имеется) в корень форума, сохраняя структуру директорий.
+2. Зайдите в **AdminCP** форума на страницу **Install New Add-on** и установите ресурс при помощи XML-файла, находящегося в `resource/install/`.
 
 ## Ссылки
 
