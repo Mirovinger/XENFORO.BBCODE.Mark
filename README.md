@@ -5,7 +5,7 @@
 ## Синтаксис
 
 ```
-Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. [M]Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad.[/M] Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
+[M]Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad.[/M]
 ```
 
 ## Установка
